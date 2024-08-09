@@ -133,36 +133,36 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: 'black'
+    // backgroundColor: 'black'
 
   },
   questionContainer:{
-    backgroundColor: '@dddddd',
+    backgroundColor: '@ddd',
     padding: 10,
     margin: 10,
     borderRadius: 8,
-    color: 'white',
+    color: 'black',
     
   },
   startxt:{
-    color:'white',
+    color:'aqua',
     fontSize: 45,
-    fontStyle: 'italic',
+    fontStyle: 'bold',
     textAlign: 'center',
     paddingBottom: 125,
   },
   optionStyle: {
-    color:'blue',
+    color:'#000',
     padding: 5,
     fontSize: 18,
     alignSelf: 'center',
     
   },
   optionContainer:{
-    borderColor: 'black',
+    borderColor: 'aqua',
     borderWidth: 3,
     marginTop: 15,
-    borderColor: 'white',
+    // borderColor: 'white',
     borderRadius: 10,
   },
   quesText:{
@@ -173,7 +173,7 @@ const styles = StyleSheet.create({
   resetbtn:{
     fontSize: 25,
     paddingHorizontal: 10,
-    color: 'green',
+    color: '#242424',
     borderColor: 'white',
     borderRadius: 5,
     textAlign: 'center',
